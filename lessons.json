@@ -1,0 +1,21 @@
+[
+  {"id": 1, "level": "beginner", "type": "chat", "title": "Fundamentals", "exercise": "Try conversing with the model, ask what operators, variables and data types are."},
+  {"id": 2, "level": "beginner", "title": "Print", "exercise": "Print your name and age."},
+  {"id": 3, "level": "beginner", "title": "Variable", "exercise": "Store your age in a variable and print it."},
+  {"id": 4, "level": "beginner", "title": "Sum operation using print()", "exercise": "Print the addition of 12 and 6 using print()."},
+  {"id": 5, "level": "beginner", "title": "Subtraction operation using print()", "exercise": "Print the subtraction of 12 by 6 using print()."},
+  {"id": 6, "level": "beginner", "title": "Multiplication operation using print()", "exercise": "Print the multiplication of 12 and 6 using print()."},
+  {"id": 7, "level": "beginner", "title": "Division operation using print()", "exercise": "Print the division of 12 by 6 using print()."},
+  {"id": 8, "level": "beginner", "title": "Errors", "exercise": "Try dividing 12 by 0 and read the error message. What kind of error is it?"},
+  {"id": 9, "level": "beginner", "title": "Division using variables", "exercise": "Set variable a to 12 and b to 6 and divide a by b, print the output."},
+  {"id": 10, "level": "beginner", "title": "User input", "exercise": "Use the input() function to set the values of the variables yourself and print them."},
+  {"id": 11, "level": "beginner", "title": "Mini calculator", "exercise": "Get 2 variables using the input() function and add, subtract, multiply and divide them, print the output."},
+  {"id": 12, "level": "beginner", "title": "Modulus operator", "exercise": "Use the modulus (%) operator on 2 variables."},
+  {"id": 13, "level": "beginner", "title": "if / else", "exercise": "Use if and else to see if a given number is even or odd."},
+  {"id": 14, "level": "beginner", "title": "if / elif / else ladder", "exercise": "Check if a number is less than 0, greater than 0 or equal to 0 using if elif else."},
+  {"id": 15, "level": "beginner", "title": "match case", "exercise": "Use match case to print the day of the week depending on user input (i.e., input = 1, day = Sunday)."},
+  {"id": 16, "level": "beginner", "title": "for loops", "exercise": "Print the multiplication table of a number the user enters."},
+  {"id": 17, "level": "beginner", "title": "for loop 2", "exercise": "Use a for loop to print every 2nd number from 1 to 99 using the range() function."},
+  {"id": 18, "level": "beginner", "title": "while loops", "exercise": "Build a number guessing game (secret number 7) that repeats until correct."},
+  {"id": 19, "level": "beginner", "type": "chat", "title": "Project", "exercise": "Chat with the AI and decide on a project, then build it."}
+]
